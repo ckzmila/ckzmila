@@ -31,6 +31,8 @@
 ---
 ### Data Engineering Projects
 ### Data Analysis Projects
+![Polygon Optimization](https://img.shields.io/badge/Polygon%20Optimization%20-%208A2BE2?logo=square&logoColor=orange&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2Fckzmila%2Fotimizacao-de-poligonos
+)
 ### Full Stack Projects
 [![Secret Number Game](https://img.shields.io/badge/Secret%20Number%20Game%20-%208A2BE2?logo=leagueoflegends&logoColor=purple&logoSize=auto&color=black)](https://github.com/ckzmila/jogo-numero-secreto)
 [![Secret Friend Game](https://img.shields.io/badge/Secret%20Friend%20Game%20-%208A2BE2?logo=gamemaker&logoColor=pink&logoSize=auto&color=black)](https://github.com/ckzmila/amigo-secreto)
