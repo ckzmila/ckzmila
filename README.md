@@ -2,6 +2,11 @@
   <img src="welcomegifreadmeckzmila.gif" alt="Welcome GIF" />
 </p>
 
+### About me
+- 🎓 Software Engineering and Data Science student
+- 🎯 Focused on learning and developing skills in Data Engineering
+- 🌟 Energized by people, driven by data, and inspired by purposeful project management
+
 ###  Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
