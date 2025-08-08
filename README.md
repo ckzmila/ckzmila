@@ -2,6 +2,8 @@
   <img src="welcomegifreadmeckzmila.gif" alt="Welcome GIF" />
 </p>
 
+🛠️ Heads up! I’m currently updating and reorganizing my repositories — things might look a bit messy for now.
+
 ### About me
 - 🎓 Software Engineering and Data Science student
 - 🎯 Focused on learning and developing skills in Data Engineering
