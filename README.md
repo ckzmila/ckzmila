@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=white)
 ---
-### Data Tools
+### Data & Automation Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn&logoColor=orange)
@@ -21,6 +21,8 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=PowerBI&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=MicrosoftExcel&logoColor=green)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-000?&logo=GoogleSheets&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-000?&logo=Zapier&logoColor=orange)
 ---
 ### Data Engineering Projects
 ### Data Analysis Projects
