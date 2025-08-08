@@ -30,6 +30,8 @@
 ![Zapier](https://img.shields.io/badge/-Zapier-000?&logo=Zapier&logoColor=orange)
 ---
 ### Data Engineering Projects
+[![IMDB Top 250 Movies](https://img.shields.io/badge/IMDB%20250%20-%208A2BE2?logo=imdb&logoColor=red&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2Fckzmila%2Fimdb-250-etl
+)](https://github.com/ckzmila/imdb-250-etl)
 ### Data Analysis Projects
 [![Polygon Optimization](https://img.shields.io/badge/Polygon%20Optimization%20-%208A2BE2?logo=square&logoColor=orange&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2Fckzmila%2Fotimizacao-de-poligonos
 )](https://github.com/ckzmila/otimizacao-de-poligonos)
