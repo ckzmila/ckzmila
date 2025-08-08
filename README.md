@@ -5,11 +5,10 @@
 ### About me
 - 🎓 Software Engineering and Data Science student
 - 🎯 Focused on learning and developing skills in Data Engineering
-- 🧪 Experienced in software testing for both game development labs and ERP systems
-- 📊 Participated in scientific research focused on multivariate data analysis using R and Python
+- 🎮 Experienced in software testing for both game development labs and ERP systems
 - 🌦️ Currently involved in scientific research on data modeling for climate-related events
+- ⚙️ Actively engaged in projects supporting women in STEM and knowledge democratization initiatives
 - 🌟 Energized by people, driven by data, and inspired by purposeful project management
-- 👩‍🔬 Actively engaged in projects supporting women in STEM and knowledge democratization initiatives
 
 ###  Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
